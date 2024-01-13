@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CS4405Unit3Assignment</string>
+    <string name="title">123 Start Up</string>
+    <string name="result_disp">Your Results</string>
+    <string name="weight">Enter Your Weight</string>
+    <string name="weight_placeholder">Your weight here...</string>
+    <string name="height">Enter Your Height</string>
+    <string name="height_placeholder">Your height here...</string>
+    <string name="select_gender">Gender:</string>
+
+    <string-array name="gender_items">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string name="button">Calculate BMI</string>
+    <string name="results">Your Results</string>
+    <string name="weight_disp">Weight:</string>
+    <string name="height_disp">Height:</string>
+    <string name="gender_disp">Gender:</string>
+    <string name="bmi">Your BMI is:</string>
+    <string name="w"></string>
+    <string name="h"></string>
+    <string name="g"></string>
+    <string name="b"></string>
+    <string name="smt"></string>
+    <string name="final_stmt">Based on the results, you are: </string>
+</resources>
